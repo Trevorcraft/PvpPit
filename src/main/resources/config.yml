@@ -1,0 +1,9 @@
+maxPlayers: 2
+exitCoords:
+  x: 0
+  y: 100
+  z: 0
+enterCoords:
+  x: 10
+  y: 100
+  z: 10
